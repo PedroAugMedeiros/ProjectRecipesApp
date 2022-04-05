@@ -1,14 +1,13 @@
 # Descrição
 
-Este projeto é um Listador de planetas baseado no universo ficticio de starWars
-
+Este é um projeto em grupo desenvolvido na trybe, um app para pesquisar receitas de comidas e drinks
 ## Tecnologias:
 
- JavaScript, HTML, CSS, VsCode, Git, GitHub, Eslint, React.js.
+ JavaScript, React, HTML, CSS, BootsTrap VsCode, Git, GitHub, Eslint.
 
 ## Download :
 
-### `git clone` git@github.com:PedroAugMedeiros/StarWarsPlanets.git
+### `git clone` git@github.com:PedroAugMedeiros/ProjectRecipesApp.git
 
 ## Para rodar localmente :
 
