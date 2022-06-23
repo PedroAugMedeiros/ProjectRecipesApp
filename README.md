@@ -1,6 +1,6 @@
 # Descrição
 
-Este é um projeto em grupo desenvolvido na trybe, um app para pesquisar receitas de comidas e drinks
+Projeto desenvolvido na trybe, um app para pesquisar receitas de comidas e drinks
 ## Tecnologias:
 
  JavaScript, React, HTML, CSS, BootsTrap VsCode, Git, GitHub, Eslint.
