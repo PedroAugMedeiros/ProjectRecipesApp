@@ -57,7 +57,6 @@ function Foods() {
     <>
       <Header pageTitle="Comidas" hasSearch recipeType="food" />
       <section>
-        {renderFoodCategories()}
         <Container>
           { renderFoodCategories() }
           { renderFoodCard() }
