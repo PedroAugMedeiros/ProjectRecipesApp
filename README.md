@@ -10,8 +10,8 @@ Este é um projeto em grupo desenvolvido na trybe, um app para pesquisar receita
 ### `git clone` git@github.com:PedroAugMedeiros/ProjectRecipesApp.git
 
 ## Deploy :
-xdddd
-### 
+
+### https://easy-recipesapp.netlify.app
 
 ## Para rodar localmente :
 ### `cd ProjectRecipesApp`
